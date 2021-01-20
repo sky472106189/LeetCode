@@ -1,2 +1,2 @@
-# LeetCode
-LeetCode刷题记录
+# MiscellanyDemo
+DEMO杂记
